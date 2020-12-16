@@ -22,7 +22,11 @@ https://krebsonsecurity.com/2020/12/solarwinds-hack-could-affect-18k-customers/
 
 Washington Post ties Solarwinds breach to all recent major breaches - https://www.washingtonpost.com/national-security/russian-government-spies-are-behind-a-broad-hacking-campaign-that-has-breached-us-agencies-and-a-top-cyber-firm/2020/12/13/d5a53b88-3d7d-11eb-9453-fc36ba051781_story.html
 
-ZDNet reporting on Solarwinds 8K filing - https://www.zdnet.com/article/sec-filings-solarwinds-says-18000-customers-are-impacted-by-recent-hack/
+ZDNet reporting on Solarwinds 8K filing 
+https://www.zdnet.com/article/sec-filings-solarwinds-says-18000-customers-are-impacted-by-recent-hack/
+
+Reuters Story confirming Solarwinds FTP CDN password was "solarwinds123"
+https://www.reuters.com/article/global-cyber-solarwinds/hackers-at-center-of-sprawling-spy-campaign-turned-solarwinds-dominance-against-it-idUSKBN28P2N8
 
 <h2>Public Information / Alerts</h2>
 
@@ -35,6 +39,9 @@ https://twitter.com/briankrebs/status/1338840527169613824?s=20
 CISA Alert 
 https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software
 
+Reuters Story confirming Solarwinds FTP CDN password was "solarwinds123"
+https://www.reuters.com/article/global-cyber-solarwinds/hackers-at-center-of-sprawling-spy-campaign-turned-solarwinds-dominance-against-it-idUSKBN28P2N8
+
 Solarwinds SEC 8K Filings 
 https://www.sec.gov/ix?doc=/Archives/edgar/data/1739942/000162828020017451/swi-20201214.htm
 
@@ -43,6 +50,13 @@ https://support.solarwinds.com/SuccessCenter/s/login/?language=en_US&startURL=%2
 
 Screenshot of Solarwinds Best Practice if you do not have support portal access 
 https://twitter.com/ffforward/status/1338785034375999491/photo/1
+
+Vinoth Kumar shares information about their responsible disclosure of Solarwinds FTP account password to their CDN password "solarwinds123"
+https://twitter.com/vinodsparrow/status/1338431183588188160?s=20
+
+Kyle Hanslovan discovers SolarWinds is still listing the vulnerable package 24 hours after disclosure (Update: Package was removed) 
+https://twitter.com/KyleHanslovan/status/1338360093767823362?s=20
+
 
 <h2>Technical Analysis</h2>
  
