@@ -1,0 +1,29 @@
+FireEye GitHub with Detections
+https://github.com/fireeye/sunburst_countermeasures
+
+FireEye Technical Analysis 
+https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
+
+Volexity Technical Review of Dark Halo 
+More detail about O365 DUO MFA Bypass - https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
+
+Bruce Schneier Write-Up of the Duo MFA Bypass 
+https://www.schneier.com/blog/archives/2020/12/how-the-solarwinds-hackers-bypassed-duo-multi-factor-authentication.html
+
+Analysis by Kim Zetter 
+https://twitter.com/KimZetter/status/1338305089597964290
+
+SANS Internet Storm Center Diary 
+https://isc.sans.edu/diary/rss/26884
+
+Analysis by Kyle Hanslovan 
+https://twitter.com/KyleHanslovan/status/1338506923642122243
+
+PICUS Analysis - Map of TTPs to MITRE ATT&CK includes additional hashes 
+https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach
+
+Summary Thread of Jake Williams SANS slides related to the breach 
+https://twitter.com/Ch33r10/status/1338612270033670144
+
+TrendMicro Analysis 
+https://www.trendmicro.com/en_us/research/20/l/overview-of-recent-sunburst-targeted-attacks.html
