@@ -116,7 +116,7 @@ https://github.com/fireeye/sunburst_countermeasures
 <b>@webjedi - Amélie E. Koran's Blog post looking at the big picture tying together technical information, news, recent history, analysis of the attack, and more</b> 
 https://webjedi.net/2020/12/16/fighting-the-fire-bucket-brigade-not-more-matches/
 
-<b>SolarWinds Post-Compromise Hunting with Azure Sentinel</a>
+<b>SolarWinds Post-Compromise Hunting with Azure Sentinel</b>
 https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095
 
 <b>Splunk Blog Post on using Splunk to detect Sunburst - Incredible amount of detail on utilizing Splunk</b>
@@ -126,7 +126,7 @@ Thanks for bringing this to my attention @phil_b_reed
 <b>Ryan Kovar - @meansec - Splunk Queries for Sunburst</b>
 https://github.com/rkovar/sunburstlookups
 
-<b>TrendMicro Analysis </b>
+<b>TrendMicro Analysis</b>
 https://www.trendmicro.com/en_us/research/20/l/overview-of-recent-sunburst-targeted-attacks.html
 
 <b>Reversing Labs analysis of the malcious file build</b>
