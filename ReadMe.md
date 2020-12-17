@@ -15,6 +15,11 @@ Hashtags for use in TweetDeck and Twitter. Paired with with AND/OR to tune resul
 
 <a id="news"><h2>News Reports</h2></a>
 
+12/17/2020
+
+<b>Details on Death Star Sinkhole deployed by Microsoft to stop C2 traffic</b>
+https://www.geekwire.com/2020/microsoft-unleashes-death-star-solarwinds-hackers-extraordinary-response-breach/
+
 12/16/2020
 
 <b>SolarWinds Advisory - First Posted 12/13 Updated 12/16 - 9:30am CT</b>
@@ -56,6 +61,11 @@ https://krebsonsecurity.com/2020/12/u-s-treasury-commerce-depts-hacked-through-s
 
 
 <a id="public"><h2>Public Information / Alerts</h2></a>
+
+12/17/2020
+
+<b>CISA Alert 12/17 - Technical Breakdown of Threat Actor - Includes Report which will be under technical analysis</b>
+https://us-cert.cisa.gov/ncas/alerts/aa20-352a
 
 12/16/2020
 
@@ -108,7 +118,24 @@ https://cyber.dhs.gov/ed/21-01/
 
 <a id="analysis"><h2>Technical Analysis</h2></a>
 
-12/16/20
+12/17/2020
+
+<b>CISA Technical Analysis of Threat Actor Group</b>
+https://us-cert.cisa.gov/sites/default/files/publications/AA20-352A-APT_Compromise_of_Government_Agencies%2C_Critical%20Infrastructure%2C_and_Private_Sector_Organizations.pdf
+
+<b>Malware Bytes Analysis of Sunburst</b>
+https://blog.malwarebytes.com/threat-analysis/2020/12/advanced-cyber-attack-hits-private-and-public-sector-via-supply-chain-software-update/
+
+<b>@Mubix's Technical Analysis including Solarflare tool for extracting passwords from Orion</b>
+https://malicious.link/post/2020/solarflare-release-password-dumper-for-solarwinds-orion/
+
+<b>Cloudflare analysis of Sunburst traffic on networks they have visibility to</b>
+https://blog.cloudflare.com/solarwinds-orion-compromise-trend-data/
+
+<b>Atlantic Council report on other supply chain attacks to give context to Solarwinds</b>
+https://www.atlanticcouncil.org/in-depth-research-reports/report/breaking-trust-shades-of-crisis-across-an-insecure-software-supply-chain/
+
+12/16/2020
 
 <b>FireEye GitHub with Detections - Updated 12/16/2020</b>
 https://github.com/fireeye/sunburst_countermeasures
@@ -136,7 +163,7 @@ https://blog.reversinglabs.com/blog/sunburst-the-next-level-of-stealth
 Includes many large companies and universities.
 https://twitter.com/RedDrip7/status/1339168187619790848
 
-12/15/20
+12/15/2020
 
 <b>SANS Internet Storm Center Diary - Published 12/14 - Updated 12/15/20</b>
 https://isc.sans.edu/diary/rss/26884
@@ -147,7 +174,7 @@ https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach
 <b>Bruce Schneier Summary Write-Up of the Duo MFA Bypass from the Voloxity Report</b>
 https://www.schneier.com/blog/archives/2020/12/how-the-solarwinds-hackers-bypassed-duo-multi-factor-authentication.html
 
-12/14/20
+12/14/2020
 
 <b>Volexity Technical Review of Dark Halo - More detail about O365 DUO MFA Bypass </b>
 https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
@@ -158,7 +185,7 @@ https://twitter.com/KyleHanslovan/status/1338506923642122243
 <b>@Che331o's Summary Thread of Jake Williams @malwarejake's SANS slides related to the breach </b>
 https://twitter.com/Ch33r10/status/1338612270033670144
 
-12/13/20
+12/13/2020
 
 <b>FireEye Technical Analysis </b>
 https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
@@ -170,7 +197,7 @@ https://twitter.com/KimZetter/status/1338305089597964290
 
 <a id="iocs"><h2>Additional IOCs</h2>
 
-12/16/20
+12/16/2020
 
 <b>DLL Locations where the Malicious DLL has been discovered in the file structure - Updated 12/16/20</b>
 https://gist.github.com/KyleHanslovan/0c8a491104cc55d6e4bd9bff7214a99e
@@ -182,17 +209,17 @@ https://pastebin.com/6EDgCKxd
 <b>IPv4, Ipv6, and DGA domain names useed with Sunburst from @bambenek</b>
 https://github.com/bambenek/research/tree/main/sunburst
 
-12/15/20
+12/15/2020
 
 <b>PICUS Analysis - Map of TTPs to MITRE ATT&CK includes additional hashes </b>
 https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach​​​​​​​​​​​​​​
 
-12/14/20
+12/14/2020
 
 <b>Additional Sunburst Hashes from Olaf Hartong</b>
 https://gist.github.com/olafhartong/71ffdd4cab4b6acd5cbcd1a0691ff82f
 
-12/13/20
+12/13/2020
 
 <b>Microsoft Security Response Center Blog Post </b>
 https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/
@@ -203,7 +230,7 @@ https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-st
 
 This section was added to help address questions that arise during meetings, etc., from individuals with potentially different news sources. This section includes items that are determined to be false or misleading. Hopefully this helps address comments in organizations before they become difficult to remove from internal conversations. 
 
-12/16/20
+12/16/2020
 
 <b>Theepochtimes - Dominion Software Intentionally Designed to Influence Election Results: Forensics Report</b>
 https://www.theepochtimes.com/dominion-software-intentionally-designed-to-influence-election-results-forensics-report_3617675.html
@@ -214,7 +241,7 @@ This is included because the Solarwinds breach, findings regarding Solarwinds (S
 https://justthenews.com/government/security/pentagon-imposed-emergency-shutdown-computer-network-handling-classified
 The article cites sources stating, "this never happens during the day" with is the strongest evidence offered. There are several sites reporting the emergency shutdown of SIPR, but link back to this story. Further, other posts conflate the CISA order to remove Solarwinds as evidence of the SIPR shutdown. There is no actual evidence or confirmation this actually happened currently. Even this did occur there is no evidence it is directly related to Solarwinds. Even if it occured and was related to Solarwinds the article states it is not unusual for SIPR to be taken offline, just that being done in the middle of the day was unusual. Further, it would seem appropriate to take the network offline until it can be determined there is no impact from the Solarwinds breach and the CISA order can be executed to shutdown Solarwinds systems. These stories misrepresent the availability of facts and make many assumptions about related issues. 
 
-12/15/20
+12/15/2020
 
 <b>Gateway Pundit Claims SolarWinds Vulnerability provides Backdoor Access to their Voting Machines</b>
 https://www.thegatewaypundit.com/2020/12/dominion-used-version-solarwinds-orion-platform-provides-backdoor-access-voting-machines/
@@ -230,7 +257,7 @@ https://twitter.com/washingtonpost/status/1339059943442419714?s=20
 https://www.thegatewaypundit.com/2020/12/breaking-exclusive-owners-solarwinds-related-obama-clintons-china-hong-kong-us-election-process/
 This article uses significant circumstantial evidence related to large equity firms and political donations. This article is all speculation with no actual evidence provided showing political influence being used to perpetrate the breach through board members. Further, it links these relationships to Dominion Voting Systems in an attempt to further undermine election results. There is no evidence of this and if there were CISA and Chris Krebs spent significant effort over the last four years working with state and local goverments to advise on the use of paper ballots verification. ~95% of precincts were using systems that had manually auditable paper ballots. There is no way to effectively "hack" this. As of this date all manual recounts matched the machine counts within the margin of error. 
 
-12/14/20
+12/14/2020
 
 <b>Gateway Pundit claims there was a raid on Solarwinds headquarters </b>
 https://www.thegatewaypundit.com/2020/12/breaking-fbi-texas-rangers-us-marshals-raid-solarwinds-hq-austin/
