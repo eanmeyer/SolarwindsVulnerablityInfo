@@ -77,11 +77,6 @@ https://twitter.com/KyleHanslovan/status/1338360093767823362?s=20
 <b>The actual CISA directive - 21-01 </b>
 https://cyber.dhs.gov/ed/21-01/
 
-<b>RedDrip begins mapping Domain Generation Algorithms to compromised sites used by Solarwinds malware</b>
-Includes many large companies and universities.
-https://twitter.com/RedDrip7/status/1339168187619790848
-
-
 
 <h2>Technical Analysis</h2>
  
@@ -117,6 +112,10 @@ https://www.trendmicro.com/en_us/research/20/l/overview-of-recent-sunburst-targe
 
 <b>Reversing Labs analysis of the malcious file build</b>
 https://blog.reversinglabs.com/blog/sunburst-the-next-level-of-stealth
+
+<b>RedDrip begins mapping Domain Generation Algorithms to compromised sites used by Solarwinds malware</b>
+Includes many large companies and universities.
+https://twitter.com/RedDrip7/status/1339168187619790848
  
 <h2>Additional IOCs</h2>
 
