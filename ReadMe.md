@@ -116,7 +116,10 @@ https://blog.reversinglabs.com/blog/sunburst-the-next-level-of-stealth
 <b>RedDrip begins mapping Domain Generation Algorithms to compromised sites used by Solarwinds malware</b>
 Includes many large companies and universities.
 https://twitter.com/RedDrip7/status/1339168187619790848
- 
+
+<b>Cyborg Security Analysis Video</b>
+https://www.youtube.com/watch?v=ONd0ERCUy0k
+
 <h2>Additional IOCs</h2>
 
 <b>DLL Locations where the Malicious DLL has been discovered in the file structure </b>
