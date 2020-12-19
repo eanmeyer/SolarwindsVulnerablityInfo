@@ -15,6 +15,23 @@ Hashtags for use in TweetDeck and Twitter. Paired with with AND/OR to tune resul
 
 <a id="news"><h2>News Reports</h2></a>
 
+12/18/2020
+
+<b>Brian Krebs speculates VMware flaw disclosed last week may be part of SolarWinds breach</b>
+https://krebsonsecurity.com/2020/12/vmware-flaw-a-vector-in-solarwinds-breach/
+
+<b>Wall Street Journal story covering details so far stating Addtional Scope</b>
+https://www.wsj.com/articles/hack-suggests-new-scope-sophistication-for-cyberattacks-11608251360
+
+<b>Department of Energy reports breach, but not on weapons networks</b>
+https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855
+
+<b>FALSE OR MISLEADING - Reuters reports Microsoft breached in Supply Chain Attack</b>
+https://www.reuters.com/article/us-global-cyber-microsoft/exclusive-microsoft-breached-in-suspected-russian-hack-using-solarwinds-sources-familiar-idUSKBN28R3BY
+
+<b>Additional Detail about Previous Reuters story reporting Microsoft Breach (Microsft Refutes This)</b>
+https://www.reuters.com/article/us-usa-cyber-breach/microsoft-says-it-found-malicious-software-in-its-systems-idUSKBN28R2ZJ
+
 12/17/2020
 
 <b>Details on Death Star Sinkhole deployed by Microsoft to stop C2 traffic</b>
@@ -118,6 +135,42 @@ https://cyber.dhs.gov/ed/21-01/
 
 <a id="analysis"><h2>Technical Analysis</h2></a>
 
+12/18/2020
+
+<b>Microsoft Analysis of Compromised DLL</b>
+https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/
+
+<b>Thread discussing Microsoft Analysis of Compromised DLL from Katie Nickels @likethecoins</b>
+https://twitter.com/likethecoins/status/1340073702185119744?s=20
+
+<b>Breakdown and Walkthrough of Reversing Engineer Sunburst by Colin Hardy @cybercdh</b>
+https://www.youtube.com/watch?v=JoMwrkijTZ8
+
+<b>10 Splunk Dections from Jose Enrique Hernandez @d1vious</b>
+https://twitter.com/d1vious/status/1339758518887473155?s=20
+https://github.com/splunk/security-content/releases/tag/v3.10.0
+
+<b>Domaintools Analysis of Incident by Joe Slowik - @jfslowik</b>
+https://www.domaintools.com/resources/blog/continuous-eruption-further-analysis-of-the-solarwinds-supply-incident
+
+<b>Microsoft 365 Defender Hunting Queries</b>
+https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Defense%20evasion/ADFSDomainTrustMods%5BSolarigate%5D.md
+
+<b>McAfee (Company, not person) Analysis of Sunburst</b>
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/additional-analysis-into-the-sunburst-backdoor/
+
+<b>Kapersky identifies ~100 companies impacted by Sunburst</b>
+https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/
+
+<b>RiskIQ API SunBurst Hunter Tool from Cory Kennedy</b>
+https://github.com/NoDataFound/RiskIQ.SunBurst.Hunter
+
+<b>Walk through to identify base IOCs from Lifars</b>
+https://lifars.com/2020/12/guide-to-check-for-sunburst-vulnerability-in-solarwinds/
+
+<b>Blog Post from Microsoft President - Brad Smith describing Global Response/Impact to Microsoft</b>
+https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/
+
 12/17/2020
 
 <b>CISA Technical Analysis of Threat Actor Group</b>
@@ -197,12 +250,32 @@ https://twitter.com/KimZetter/status/1338305089597964290
 
 <a id="iocs"><h2>Additional IOCs</h2>
 
+12/18/2020
+
+<b>YARA rule from Florian Roth @cyb3rops to detect compromised certificates</b>
+https://twitter.com/cyb3rops/status/1339869191835430912?s=20
+https://github.com/Neo23x0/signature-base/blob/master/yara/apt_solarwinds_susp_sunburst.yar
+
+<b>PasteBin of AVSVMCLOUD PDNS from Joe Slowik - @jfslowik</b>
+https://pastebin.com/T0SRGkWq
+
+<b>Check Point Research confirms TEARDROP memory-only dropper from Sunburst available in VirusTotal</b>
+https://twitter.com/_CPResearch_/status/1339952318717063168?s=20
+https://www.virustotal.com/gui/file/6e4050c6a2d2e5e49606d96dd2922da480f2e0c70082cc7e54449a7dc0d20f8d/detection
+
+<b>Windows Based Sunburst Domain Decoder from Netresec</b>
+https://twitter.com/netresec/status/1339701012681134082?s=20
+https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS
+
+<b>Additional DGA Decoding tool from 2igosha</b>
+https://github.com/2igosha/sunburst_dga
+
 12/16/2020
 
 <b>DLL Locations where the Malicious DLL has been discovered in the file structure - Updated 12/16/20</b>
 https://gist.github.com/KyleHanslovan/0c8a491104cc55d6e4bd9bff7214a99e
 
-<b>subdomain & DGA domain names used with Solarwinds Backdoor from @0xrb</b>
+<b>Subdomain & DGA domain names used with Solarwinds Backdoor from @0xrb</b>
 https://twitter.com/0xrb/status/1339199268146442241?s=20
 https://pastebin.com/6EDgCKxd
 
